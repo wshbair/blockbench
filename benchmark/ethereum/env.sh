@@ -1,7 +1,7 @@
 ETH_HOME=/home/luxbch/blockbench/benchmark/ethereum
 HOSTS=$ETH_HOME/hosts
 CLIENTS=$ETH_HOME/clients
-ETH_DATA=/data/luxbch/eth
+ETH_DATA=/home/luxbch/data/eth
 LOG_DIR=$ETH_HOME/donothing_donothingresults_1
 EXE_HOME=/home/luxbch/blockbench/blockchain-perf/src/donothing
 BENCHMARK=ycsb
